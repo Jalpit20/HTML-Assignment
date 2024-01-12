@@ -1,0 +1,143 @@
+.paid{
+    color: #3CDD5F;
+}
+.con1{
+    justify-content: left;
+}
+.con2{
+    height: 100vh;
+    width: 11%;
+    float: left;
+   
+    
+}
+.con3{
+    width: 89%;
+    float: right;
+    background-color: #FAFAFA;
+    margin-top: 20px;
+  
+    
+}
+.search1{
+    margin-right: 65em;
+    margin-left: 1rem;
+    margin-top: 10px;
+}
+.img1{
+    margin-left: 1rem;
+}
+.img2{
+    margin-right: 3rem;
+}
+.img3{
+    margin-right: 2rem;
+}
+.nav2{
+
+    
+    padding-left: 0.5rem;
+    padding-top: 1.2rem;
+    padding-bottom: 1rem;
+    font-size: 1rem;
+
+   
+}
+.ds{
+ font-size: 40px;
+ font-weight: bold;
+}
+
+.dsh{
+    background-color: #FFF3F4;
+    border-radius: 3px;
+    width: 17rem;
+}
+.r1{
+    display: flex;
+}
+.sale-chart{
+    justify-content: space-between;
+}
+
+.sale-chart-option{
+    justify-content: space-between;
+}
+
+#yearly{
+    color:#C8242F
+}
+
+#data-graph{
+   width: 90%;
+}
+
+
+.inv{
+
+    font: normal normal medium 22px/29px Roboto;
+    font-size: 2rem;
+}
+.va{
+    color:#C8242F;
+    float:right;
+}
+#sale{
+
+    font: normal normal medium 22px/29px Roboto;
+    font-size: 2rem;
+}
+#sbc{
+    font: normal normal medium 22px/29px Roboto;
+    font-size: 2rem;
+}
+#third{
+    display:flex;
+    flex-direction: row;
+}
+.table .paid{
+    color: #3CDD5F;
+    background-color: #EBFFEF;
+}
+
+#theadcolor{
+    font: normal normal normal 1.2rem Roboto;
+    color:#ADADAD;
+}
+.table th{
+    font: normal normal normal 1.2rem Roboto;
+    color:#ADADAD;
+}
+.table .failed{
+    color: #FF4545;
+    background-color: #FFF5F5;
+}
+.table .pending{
+    color: #BABABA;
+    background-color: #F8F8F8;
+}
+.table tr{
+    width: 1rem;
+}
+.table td{
+    color:#3E3E3E;
+    font: normal normal normal 15px/20px Roboto;
+    
+}
+.dotred
+{
+    top: 636px;
+    left: 1173px;
+    width: 18px;
+    height: 18px;
+    /* UI Properties */
+    background: #C8242F 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.firstgraph{
+    margin: 2.3rem;
+}
+.secondgraph{
+    margin-top: 2.3rem;
+    margin-bottom: 2.3rem;
+}
